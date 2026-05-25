@@ -16,5 +16,5 @@
 # ============================================================
 
 1 | Data Migration Mind Map | https://excalidraw.com/#json=HqzdL2THSTWsj3aviKhbB,Iz88Qv6GAk73IaeXYCr-_w | Gateway to data migration wisdom — architecture and flow notes. | migration, architecture
-2 | System Architecture | https://excalidraw.com/#json=example_system_arch | High-level overview of the backend services and their interactions. | backend, architecture, infra
-3 | Onboarding User Flow | https://excalidraw.com/#json=example_onboarding | Step-by-step user journey from signup to first active session. | ux, flow, onboarding
+2 | SAP Master Data Governance | https://excalidraw.com/#json=example_system_arch | Notes of the SAP MDG. | migration, Ggvernance
+3 | SQL | https://excalidraw.com/#json=example_onboarding | SQL Notes | SQL
