@@ -16,5 +16,5 @@
 # ============================================================
 
 1 | Data Migration Mind Map | https://excalidraw.com/#json=HqzdL2THSTWsj3aviKhbB,Iz88Qv6GAk73IaeXYCr-_w | Gateway to data migration wisdom — architecture and flow notes. | migration, architecture
-2 | SAP Master Data Governance | https://excalidraw.com/#json=example_system_arch | Notes of the SAP MDG. | migration, Ggvernance
-3 | SQL | https://excalidraw.com/#json=example_onboarding | SQL Notes | SQL
+2 | SAP Master Data Governance | https://excalidraw.com/#json=GrpWBCEZssiAmpvm_rxcS,CU_MJIUPBLlHdNGyvrMa-Q | Notes of the SAP MDG. | migration, Ggvernance
+3 | SQL | https://excalidraw.com/#json=1fc7E3lw310UbKxyAovnz,TPTb5CoGTLqy8EZ_Ehdc4A | SQL Notes | SQL
