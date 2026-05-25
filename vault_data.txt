@@ -1,0 +1,20 @@
+# ============================================================
+# EXCALIDRAW VAULT — DATA FILE
+# ============================================================
+# FORMAT  : Each data row uses pipe (|) as delimiter
+# COLUMNS : serial_number | name | excalidraw_url | description | tags
+#
+# RULES:
+#   - Lines starting with # are comments (ignored by the app)
+#   - Blank lines are ignored
+#   - Tags: comma-separated values inside the tags column
+#   - serial_number must be unique (used as record ID)
+#   - Do NOT use | character inside any field value
+#
+# EXAMPLE ROW:
+#   1 | My Diagram | https://excalidraw.com/#json=abc123 | A short description | tag1, tag2, tag3
+# ============================================================
+
+1 | Data Migration Mind Map | https://excalidraw.com/#json=HqzdL2THSTWsj3aviKhbB,Iz88Qv6GAk73IaeXYCr-_w | Gateway to data migration wisdom — architecture and flow notes. | migration, architecture
+2 | System Architecture | https://excalidraw.com/#json=example_system_arch | High-level overview of the backend services and their interactions. | backend, architecture, infra
+3 | Onboarding User Flow | https://excalidraw.com/#json=example_onboarding | Step-by-step user journey from signup to first active session. | ux, flow, onboarding
